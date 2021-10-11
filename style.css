@@ -1,0 +1,31 @@
+/* .container{
+    background-color: #ccc;
+ 
+}
+
+[class*='col']{
+    background-color: lightblue;
+    border: 1px solid #777;
+}
+
+/* .con{
+    margin-top: 200px;
+} */  
+/* .flower{
+    margin-top: 300px;
+    font-size: 50px;
+    color: rgb(41, 27, 2);
+}
+.store{
+    text-align: center;
+}
+
+.background{
+    background-color: lightgrey;
+} */
+#branding img{
+    width: 150px;
+    height: 55px;
+    float: left;
+    padding-left: 20px;
+}
